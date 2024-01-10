@@ -1,137 +1,140 @@
-[
-  {
-    "question": "What does the doctrine of the Trinity primarily express?",
-    "options": [
-      "A) Three separate gods",
-      "B) Three prophets",
-      "C) One God in three persons",
-      "D) Three angels"
-    ],
-    "answer": "C"
-  },
-  {
-    "question": "The Trinity is a doctrine found in which religion?",
-    "options": ["A) Islam", "B) Christianity", "C) Judaism", "D) Buddhism"],
-    "answer": "B"
-  },
-  {
-    "question": "Which of the following is a misconception about the Trinity?",
-    "options": [
-      "A) The Trinity consists of three persons",
-      "B) The Father, Son, and Holy Spirit are one God",
-      "C) The Trinity means there are three gods",
-      "D) The Trinity is a Christian belief"
-    ],
-    "answer": "C"
-  },
-  {
-    "question": "In the Trinity, the Father, Son, and Holy Spirit are:",
-    "options": [
-      "A) Of different essences",
-      "B) Of the same essence",
-      "C) Completely separate entities",
-      "D) Not related"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "Which statement is true about the Trinity according to orthodox Christian doctrine?",
-    "options": [
-      "A) The Son is created by the Father",
-      "B) The Holy Spirit is less than the Father and the Son",
-      "C) The Father, Son, and Holy Spirit are co-eternal",
-      "D) The Father and the Son are superior to the Holy Spirit"
-    ],
-    "answer": "C"
-  },
-  {
-    "question": "The concept of the Trinity is explicitly stated in which section of the Christian Bible?",
-    "options": [
-      "A) It is explicitly stated in the Old Testament",
-      "B) It is explicitly stated in the New Testament",
-      "C) It is not explicitly stated but is derived from various scriptures",
-      "D) It is a concept not found in the Bible"
-    ],
-    "answer": "C"
-  },
-  {
-    "question": "Which heretical view claims that the Father, Son, and Holy Spirit are different modes of God, not distinct persons?",
-    "options": [
-      "A) Arianism",
-      "B) Modalism",
-      "C) Nestorianism",
-      "D) Pelagianism"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "The Nicene Creed, important in explaining the Trinity, was formulated in response to:",
-    "options": [
-      "A) Arianism",
-      "B) Pelagianism",
-      "C) Gnosticism",
-      "D) Marcionism"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Which of the following best describes the relationship within the Trinity?",
-    "options": [
-      "A) The Son and the Holy Spirit are subordinate to the Father",
-      "B) The three persons are in a relationship of mutual love and respect",
-      "C) The Father is the only true God",
-      "D) The Holy Spirit and the Son are aspects of the Father"
-    ],
-    "answer": "B"
-  },
-  {
-    "question": "The Athanasian Creed is significant for its:",
-    "options": [
-      "A) Detailed description of the Trinity",
-      "B) Rejection of the Trinity",
-      "C) Focus on the life of Jesus",
-      "D) Teachings on salvation"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Which council affirmed the doctrine of the Trinity in 325 AD?",
-    "options": [
-      "A) Council of Nicaea",
-      "B) Council of Ephesus",
-      "C) Council of Chalcedon",
-      "D) Council of Trent"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "The term 'consubstantial' in Trinitarian theology means:",
-    "options": [
-      "A) Of a similar substance",
-      "B) Of a different substance",
-      "C) Of the same substance",
-      "D) Not of any substance"
-    ],
-    "answer": "C"
-  },
-  {
-    "question": "Which heresy claimed that Christ was a created being and not co-eternal with the Father?",
-    "options": [
-      "A) Arianism",
-      "B) Docetism",
-      "C) Monophysitism",
-      "D) Modalism"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "In the Trinity, the doctrine of 'procession' primarily refers to:",
-    "options": [
-      "A) The Father generating the Son",
-      "B) The Son being born of the Virgin Mary",
-      "C) The Holy Spirit proceeding from the Father (and the Son)",
-      "D) The movement from Old to New Testament"
-    ],
-    "answer": "C"
-  }
-]
+{
+  "name": "Trinity",
+  "questions": [
+    {
+      "question": "What does the doctrine of the Trinity primarily express?",
+      "options": [
+        "A) Three separate gods",
+        "B) Three prophets",
+        "C) One God in three persons",
+        "D) Three angels"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "The Trinity is a doctrine found in which religion?",
+      "options": ["A) Islam", "B) Christianity", "C) Judaism", "D) Buddhism"],
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following is a misconception about the Trinity?",
+      "options": [
+        "A) The Trinity consists of three persons",
+        "B) The Father, Son, and Holy Spirit are one God",
+        "C) The Trinity means there are three gods",
+        "D) The Trinity is a Christian belief"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "In the Trinity, the Father, Son, and Holy Spirit are:",
+      "options": [
+        "A) Of different essences",
+        "B) Of the same essence",
+        "C) Completely separate entities",
+        "D) Not related"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which statement is true about the Trinity according to orthodox Christian doctrine?",
+      "options": [
+        "A) The Son is created by the Father",
+        "B) The Holy Spirit is less than the Father and the Son",
+        "C) The Father, Son, and Holy Spirit are co-eternal",
+        "D) The Father and the Son are superior to the Holy Spirit"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "The concept of the Trinity is explicitly stated in which section of the Christian Bible?",
+      "options": [
+        "A) It is explicitly stated in the Old Testament",
+        "B) It is explicitly stated in the New Testament",
+        "C) It is not explicitly stated but is derived from various scriptures",
+        "D) It is a concept not found in the Bible"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which heretical view claims that the Father, Son, and Holy Spirit are different modes of God, not distinct persons?",
+      "options": [
+        "A) Arianism",
+        "B) Modalism",
+        "C) Nestorianism",
+        "D) Pelagianism"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "The Nicene Creed, important in explaining the Trinity, was formulated in response to:",
+      "options": [
+        "A) Arianism",
+        "B) Pelagianism",
+        "C) Gnosticism",
+        "D) Marcionism"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which of the following best describes the relationship within the Trinity?",
+      "options": [
+        "A) The Son and the Holy Spirit are subordinate to the Father",
+        "B) The three persons are in a relationship of mutual love and respect",
+        "C) The Father is the only true God",
+        "D) The Holy Spirit and the Son are aspects of the Father"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "The Athanasian Creed is significant for its:",
+      "options": [
+        "A) Detailed description of the Trinity",
+        "B) Rejection of the Trinity",
+        "C) Focus on the life of Jesus",
+        "D) Teachings on salvation"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which council affirmed the doctrine of the Trinity in 325 AD?",
+      "options": [
+        "A) Council of Nicaea",
+        "B) Council of Ephesus",
+        "C) Council of Chalcedon",
+        "D) Council of Trent"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "The term 'consubstantial' in Trinitarian theology means:",
+      "options": [
+        "A) Of a similar substance",
+        "B) Of a different substance",
+        "C) Of the same substance",
+        "D) Not of any substance"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which heresy claimed that Christ was a created being and not co-eternal with the Father?",
+      "options": [
+        "A) Arianism",
+        "B) Docetism",
+        "C) Monophysitism",
+        "D) Modalism"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "In the Trinity, the doctrine of 'procession' primarily refers to:",
+      "options": [
+        "A) The Father generating the Son",
+        "B) The Son being born of the Virgin Mary",
+        "C) The Holy Spirit proceeding from the Father (and the Son)",
+        "D) The movement from Old to New Testament"
+      ],
+      "answer": "C"
+    }
+  ]
+}
