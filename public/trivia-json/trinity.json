@@ -85,12 +85,52 @@
     "answer": "B"
   },
   {
-    "question": "In Trinitarian theology, 'perichoresis' refers to:",
+    "question": "The Athanasian Creed is significant for its:",
     "options": [
-      "A) The creation of the world",
-      "B) The separation of God into three parts",
-      "C) The interpenetration and indwelling of the Trinity's persons",
-      "D) The hierarchy within the Trinity"
+      "A) Detailed description of the Trinity",
+      "B) Rejection of the Trinity",
+      "C) Focus on the life of Jesus",
+      "D) Teachings on salvation"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which council affirmed the doctrine of the Trinity in 325 AD?",
+    "options": [
+      "A) Council of Nicaea",
+      "B) Council of Ephesus",
+      "C) Council of Chalcedon",
+      "D) Council of Trent"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The term 'consubstantial' in Trinitarian theology means:",
+    "options": [
+      "A) Of a similar substance",
+      "B) Of a different substance",
+      "C) Of the same substance",
+      "D) Not of any substance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which heresy claimed that Christ was a created being and not co-eternal with the Father?",
+    "options": [
+      "A) Arianism",
+      "B) Docetism",
+      "C) Monophysitism",
+      "D) Modalism"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "In the Trinity, the doctrine of 'procession' primarily refers to:",
+    "options": [
+      "A) The Father generating the Son",
+      "B) The Son being born of the Virgin Mary",
+      "C) The Holy Spirit proceeding from the Father (and the Son)",
+      "D) The movement from Old to New Testament"
     ],
     "answer": "C"
   }
