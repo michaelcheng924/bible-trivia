@@ -1,5 +1,10 @@
 [
   {
+    "name": "Jesus Christ",
+    "slug": "jesus-christ",
+    "questions": 15
+  },
+  {
     "name": "Trinity",
     "slug": "trinity",
     "questions": 14

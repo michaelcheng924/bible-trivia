@@ -1,0 +1,130 @@
+{
+  "name": "Jesus Christ",
+  "questions": [
+    {
+      "question": "Where was Jesus born according to the Bible?",
+      "options": ["A) Nazareth", "B) Jerusalem", "C) Bethlehem", "D) Galilee"],
+      "answer": "C"
+    },
+    {
+      "question": "Who baptized Jesus?",
+      "options": ["A) Peter", "B) John the Baptist", "C) Paul", "D) James"],
+      "answer": "B"
+    },
+    {
+      "question": "What miracle did Jesus perform at the wedding in Cana?",
+      "options": [
+        "A) Healed a blind man",
+        "B) Walked on water",
+        "C) Fed 5000 people",
+        "D) Turned water into wine"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "How did Judas identify Jesus to the soldiers?",
+      "options": [
+        "A) By his clothing",
+        "B) With a handshake",
+        "C) By pointing at him",
+        "D) With a kiss"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "What did Jesus do for 40 days after his resurrection?",
+      "options": [
+        "A) He ascended to heaven",
+        "B) Wandered in the desert",
+        "C) Appeared to his disciples",
+        "D) Wrote the Gospels"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "In the parable of the Good Samaritan, who first passed by the wounded man?",
+      "options": [
+        "A) A Samaritan",
+        "B) A priest",
+        "C) A Levite",
+        "D) A merchant"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "What is the first miracle of Jesus mentioned in the Bible?",
+      "options": [
+        "A) Healing a leper",
+        "B) Raising Lazarus from the dead",
+        "C) Turning water into wine",
+        "D) Feeding the 5000"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What did Jesus say was the greatest commandment?",
+      "options": [
+        "A) Honor your father and mother",
+        "B) Love your neighbor as yourself",
+        "C) Do not commit adultery",
+        "D) Love the Lord your God with all your heart"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "What did Peter do when he saw Jesus walking on water?",
+      "options": [
+        "A) He walked on water too",
+        "B) He prayed",
+        "C) He hid in the boat",
+        "D) He swam to Jesus"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "How many loaves and fish did Jesus use to feed 5000 people?",
+      "options": [
+        "A) 2 loaves and 5 fish",
+        "B) 5 loaves and 2 fish",
+        "C) 7 loaves and 3 fish",
+        "D) 3 loaves and 7 fish"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Who was the Roman governor who sentenced Jesus to crucifixion?",
+      "options": ["A) Herod", "B) Pilate", "C) Tiberius", "D) Nero"],
+      "answer": "B"
+    },
+    {
+      "question": "What was Jesus' profession before his ministry?",
+      "options": [
+        "A) Shepherd",
+        "B) Fisherman",
+        "C) Tax collector",
+        "D) Carpenter"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Which apostle doubted Jesus’ resurrection until he saw Jesus with his own eyes?",
+      "options": ["A) Thomas", "B) John", "C) Peter", "D) Matthew"],
+      "answer": "A"
+    },
+    {
+      "question": "On which holiday was Jesus crucified?",
+      "options": ["A) Passover", "B) Pentecost", "C) Easter", "D) Yom Kippur"],
+      "answer": "A"
+    },
+    {
+      "question": "What did Jesus say as he was dying on the cross?",
+      "options": [
+        "A) My God, why have you forsaken me?",
+        "B) Father, into your hands I commit my spirit",
+        "C) It is finished",
+        "D) All of the above"
+      ],
+      "answer": "D"
+    }
+  ]
+}
