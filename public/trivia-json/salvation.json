@@ -1,0 +1,125 @@
+{
+  "name": "Salvation",
+  "questions": [
+    {
+      "question": "Salvation is obtained by:",
+      "options": [
+        "A) Faith alone",
+        "B) Good works",
+        "C) Church membership",
+        "D) Faith and good works"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "What does 'justification by faith' mean?",
+      "options": [
+        "A) Being made just by doing good works",
+        "B) Being declared righteous before God through faith",
+        "C) Achieving salvation through rituals",
+        "D) Earning God's favor by following laws"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Who is the central figure of salvation?",
+      "options": [
+        "A) The Pope",
+        "B) Moses",
+        "C) Jesus Christ",
+        "D) The Saints"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following is necessary for salvation?",
+      "options": [
+        "A) Baptism",
+        "B) Faith in Christ",
+        "C) Membership in a specific church",
+        "D) A life without sin"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Who is the author of salvation?",
+      "options": [
+        "A) The Church",
+        "B) The Believer",
+        "C) Jesus Christ",
+        "D) The Apostles"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What role do good works play in the Christian understanding of salvation?",
+      "options": [
+        "A) Necessary for earning salvation",
+        "B) A result of salvation",
+        "C) Not related to salvation",
+        "D) The only way to salvation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "What is the role of sacraments in salvation?",
+      "options": [
+        "A) Essential for salvation",
+        "B) Signs and seals of God's promise",
+        "C) Means to earn God's grace",
+        "D) Not related to salvation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which statement aligns with Christian beliefs about grace and salvation?",
+      "options": [
+        "A) Grace is earned by good deeds",
+        "B) Grace is a free gift from God",
+        "C) Grace is obtained through church rituals",
+        "D) Grace is deserved by the righteous"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Who has the authority to grant salvation?",
+      "options": [
+        "A) The Church",
+        "B) Religious leaders",
+        "C) God alone",
+        "D) Individuals themselves"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What does Christian doctrine emphasize about salvation?",
+      "options": [
+        "A) Achieved through faith and works",
+        "B) Based on faith alone, not works",
+        "C) Dependent on church rituals",
+        "D) Earned by following religious laws"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Ephesians 1:4 states that God chose us in Christ 'before the foundation of the world.' What does this imply about God's plan of salvation?",
+      "options": [
+        "A) God's plan is based on our future decisions",
+        "B) God elects individuals based on their merits",
+        "C) Sinners are saved by the unconditional grace of God",
+        "D) The plan of salvation was decided after creation"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Before God changes a person's heart, how is their relationship with God typically described?",
+      "options": [
+        "A) Neutral and open to God",
+        "B) Naturally inclined towards God",
+        "C) Indifferent and unresponsive",
+        "D) Hostile and opposed to God"
+      ],
+      "answer": "D"
+    }
+  ]
+}
