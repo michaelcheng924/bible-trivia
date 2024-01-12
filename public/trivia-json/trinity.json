@@ -2,7 +2,7 @@
   "name": "Trinity",
   "questions": [
     {
-      "question": "What does the doctrine of the Trinity primarily express?",
+      "question": "What does the doctrine of the Trinity primarily express, as hinted in Matthew 28:19?",
       "options": [
         "A) Three separate gods",
         "B) Three prophets",
@@ -12,12 +12,12 @@
       "answer": "C"
     },
     {
-      "question": "The Trinity is a doctrine found in which religion?",
+      "question": "The Trinity is a doctrine found in which religion, as inferred from 2 Corinthians 13:14?",
       "options": ["A) Islam", "B) Christianity", "C) Judaism", "D) Buddhism"],
       "answer": "B"
     },
     {
-      "question": "Which of the following is a misconception about the Trinity?",
+      "question": "Which of the following is a misconception about the Trinity, considering passages like John 10:30?",
       "options": [
         "A) The Trinity consists of three persons",
         "B) The Father, Son, and Holy Spirit are one God",
@@ -27,7 +27,7 @@
       "answer": "C"
     },
     {
-      "question": "In the Trinity, the Father, Son, and Holy Spirit are:",
+      "question": "In the Trinity, the Father, Son, and Holy Spirit are, according to John 1:1-14:",
       "options": [
         "A) Of different essences",
         "B) Of the same essence",
@@ -37,7 +37,7 @@
       "answer": "B"
     },
     {
-      "question": "Which statement is true about the Trinity according to orthodox Christian doctrine?",
+      "question": "Which statement is true about the Trinity according to orthodox Christian doctrine, as supported by John 17:11?",
       "options": [
         "A) The Son is created by the Father",
         "B) The Holy Spirit is less than the Father and the Son",
@@ -77,7 +77,7 @@
       "answer": "A"
     },
     {
-      "question": "Which of the following best describes the relationship within the Trinity?",
+      "question": "Which of the following best describes the relationship within the Trinity, as suggested in passages like 1 John 4:8?",
       "options": [
         "A) The Son and the Holy Spirit are subordinate to the Father",
         "B) The three persons are in a relationship of mutual love and respect",

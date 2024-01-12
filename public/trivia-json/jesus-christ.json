@@ -2,17 +2,17 @@
   "name": "Jesus Christ",
   "questions": [
     {
-      "question": "Where was Jesus born according to the Bible?",
+      "question": "According to the Bible, specifically in Matthew 2:1, where was Jesus born?",
       "options": ["A) Nazareth", "B) Jerusalem", "C) Bethlehem", "D) Galilee"],
       "answer": "C"
     },
     {
-      "question": "Who baptized Jesus?",
+      "question": "As recorded in Matthew 3:13-17, who baptized Jesus?",
       "options": ["A) Peter", "B) John the Baptist", "C) Paul", "D) James"],
       "answer": "B"
     },
     {
-      "question": "What miracle did Jesus perform at the wedding in Cana?",
+      "question": "In the Gospel of John, chapter 2, what miracle did Jesus perform at the wedding in Cana?",
       "options": [
         "A) Healed a blind man",
         "B) Walked on water",
@@ -22,7 +22,7 @@
       "answer": "D"
     },
     {
-      "question": "How did Judas identify Jesus to the soldiers?",
+      "question": "According to Matthew 26:48-49, how did Judas identify Jesus to the soldiers?",
       "options": [
         "A) By his clothing",
         "B) With a handshake",
@@ -32,7 +32,7 @@
       "answer": "D"
     },
     {
-      "question": "What did Jesus do for 40 days after his resurrection?",
+      "question": "As described in Acts 1:3, what did Jesus do for 40 days after his resurrection?",
       "options": [
         "A) He ascended to heaven",
         "B) Wandered in the desert",
@@ -42,7 +42,7 @@
       "answer": "C"
     },
     {
-      "question": "In the parable of the Good Samaritan, who first passed by the wounded man?",
+      "question": "In the parable of the Good Samaritan, found in Luke 10:31, who first passed by the wounded man?",
       "options": [
         "A) A Samaritan",
         "B) A priest",
@@ -52,7 +52,7 @@
       "answer": "B"
     },
     {
-      "question": "What is the first miracle of Jesus mentioned in the Bible?",
+      "question": "What is the first miracle of Jesus mentioned in the Bible, specifically in John 2:1-11?",
       "options": [
         "A) Healing a leper",
         "B) Raising Lazarus from the dead",
@@ -62,7 +62,7 @@
       "answer": "C"
     },
     {
-      "question": "What did Jesus say was the greatest commandment?",
+      "question": "As per Matthew 22:36-38, what did Jesus say was the greatest commandment?",
       "options": [
         "A) Honor your father and mother",
         "B) Love your neighbor as yourself",
@@ -72,7 +72,7 @@
       "answer": "D"
     },
     {
-      "question": "What did Peter do when he saw Jesus walking on water?",
+      "question": "According to Matthew 14:29, what did Peter do when he saw Jesus walking on water?",
       "options": [
         "A) He walked on water too",
         "B) He prayed",
@@ -82,7 +82,7 @@
       "answer": "A"
     },
     {
-      "question": "How many loaves and fish did Jesus use to feed 5000 people?",
+      "question": "In the account of feeding the 5000, as told in Matthew 14:17-21, how many loaves and fish did Jesus use?",
       "options": [
         "A) 2 loaves and 5 fish",
         "B) 5 loaves and 2 fish",
@@ -92,12 +92,12 @@
       "answer": "B"
     },
     {
-      "question": "Who was the Roman governor who sentenced Jesus to crucifixion?",
+      "question": "Who was the Roman governor who sentenced Jesus to crucifixion, as mentioned in Matthew 27:22-26?",
       "options": ["A) Herod", "B) Pilate", "C) Tiberius", "D) Nero"],
       "answer": "B"
     },
     {
-      "question": "What was Jesus' profession before his ministry?",
+      "question": "What was Jesus' profession before his ministry, as implied in Mark 6:3?",
       "options": [
         "A) Shepherd",
         "B) Fisherman",
@@ -107,17 +107,17 @@
       "answer": "D"
     },
     {
-      "question": "Which apostle doubted Jesus’ resurrection until he saw Jesus with his own eyes?",
+      "question": "Which apostle doubted Jesus’ resurrection until he saw Jesus with his own eyes, as narrated in John 20:24-29?",
       "options": ["A) Thomas", "B) John", "C) Peter", "D) Matthew"],
       "answer": "A"
     },
     {
-      "question": "On which holiday was Jesus crucified?",
+      "question": "On which holiday was Jesus crucified, as indicated in the Gospels, particularly in John 19:14?",
       "options": ["A) Passover", "B) Pentecost", "C) Easter", "D) Yom Kippur"],
       "answer": "A"
     },
     {
-      "question": "What did Jesus say as he was dying on the cross?",
+      "question": "What did Jesus say as he was dying on the cross, as recorded in Matthew 27:46 and Luke 23:46?",
       "options": [
         "A) My God, why have you forsaken me?",
         "B) Father, into your hands I commit my spirit",
